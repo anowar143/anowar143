@@ -4,7 +4,7 @@
 <!-- **anowar143/anowar143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working at **Freelancer.com** as a **Part-Time Django Developer**
+- 🔭 I’m a Django Developer**
 - 🌱 I write **Python/Django** codes on a daily basis
 <br/>
 
