@@ -4,8 +4,8 @@
 <!-- **anowar143/anowar143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a **Django Developer**
-- 🌱 I write **Python/Django** codes on a daily basis
+- 🔭 Books lover happy coder
+- 🌱 I write **Programming** codes on a daily basis
 <br/>
 
 
